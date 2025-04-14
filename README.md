@@ -41,5 +41,5 @@ This repository provides the **MATLAB code** and **data analysis workflows** for
 
 ## 🙋 Support & Contact
 For code access before publication or technical questions:
-📧 Contact: Mingchuan Luo
-💻 GitHub Issues: Open a ticket
+📧 Contact: [Mingchuan Luo](mailto:m.luo@pku.edu.cn) 
+💻 GitHub Issues: [Open a ticket](https://github.com/HengshuoHuang/CO2RR-GDE-Optimization/issues)
