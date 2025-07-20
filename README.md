@@ -1,5 +1,5 @@
 # MATLAB-code-MLCO2RR-OPT
-This repository contains the MATLAB code supporting the manuscript "_Data-Driven Optimization of Gas Diffusion Electrode Porosity for Enhanced CO2 Electroreduction_". The code implements the computational framework described in the paper, enabling reproducibility of key results and methodologies.
+This repository contains the MATLAB code supporting the manuscript "_Residual Faraday Efficiency Enabling Interpretable Data-Driven Optimization of Mass Transport for CO2 Electroreduction_". The code implements the computational framework described in the paper, enabling reproducibility of key results and methodologies.
 
 # MATLAB Code: Data-Driven GDE Optimization for CO2RR 
 
@@ -8,7 +8,7 @@ This repository contains the MATLAB code supporting the manuscript "_Data-Driven
 [![DOI](https://img.shields.io/badge/DOI-Manuscript_Pending-brightgreen)]()
 
 > **Manuscript Reference**:  
-> *"Data-Driven Optimization of Gas Diffusion Electrode Porosity for Enhanced CO2 Electroreduction"*  
+> *"Residual Faraday Efficiency Enabling Interpretable Data-Driven Optimization of Mass Transport for CO2 Electroreduction"*  
 > **Authors**: Hengshuo Huang et al.  
 > **Corresponding Author**: Mingchuan Luo [📧: m.luo@pku.edu.cn](mailto:m.luo@pku.edu.cn)  
 
@@ -32,7 +32,7 @@ This repository provides the **MATLAB code** and **data analysis workflows** for
 ---
 ## 🧩 Code Workflow
 
-1. CFD Data Processing
+1. CFD Data Preparing and Processing
 
 2. Train ML Models
 
