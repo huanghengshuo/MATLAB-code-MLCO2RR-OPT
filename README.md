@@ -32,7 +32,7 @@ This repository provides the **MATLAB code** and **data analysis workflows** for
 ---
 ## 🧩 Code Workflow
 
-1. CFD Data Processing
+1. CFD Data Preparing and Processing
 
 2. Train ML Models
 
